@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571728657497",
+    "project_id": "cr1-lesson-12",
+    "storage_bucket": "cr1-lesson-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571728657497:android:93fcd6f615c91cf5320548",
+        "android_client_info": {
+          "package_name": "com.example.cr1_lesson_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571728657497-2s238v4l7ok5a5splh4t4pviqedrep78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30kEn7MHgM3zOVIR7BG_hws0d5P4iiK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571728657497-2s238v4l7ok5a5splh4t4pviqedrep78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
